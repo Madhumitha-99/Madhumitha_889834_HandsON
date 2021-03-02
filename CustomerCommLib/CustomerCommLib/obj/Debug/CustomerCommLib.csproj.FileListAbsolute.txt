@@ -1,0 +1,5 @@
+C:\Users\889834\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\889834\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\889834\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\889834\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

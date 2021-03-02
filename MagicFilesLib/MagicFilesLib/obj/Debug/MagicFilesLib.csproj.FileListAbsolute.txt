@@ -1,0 +1,5 @@
+C:\Users\889834\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\889834\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\889834\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\889834\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb

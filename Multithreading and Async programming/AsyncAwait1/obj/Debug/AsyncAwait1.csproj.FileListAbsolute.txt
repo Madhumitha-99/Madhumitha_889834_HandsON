@@ -1,0 +1,7 @@
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\bin\Debug\AsyncAwait1.exe.config
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\bin\Debug\AsyncAwait1.exe
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\bin\Debug\AsyncAwait1.pdb
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\obj\Debug\AsyncAwait1.csprojAssemblyReference.cache
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\obj\Debug\AsyncAwait1.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\obj\Debug\AsyncAwait1.exe
+C:\Users\889834\source\repos\ThreadStartSample\AsyncAwait1\obj\Debug\AsyncAwait1.pdb
