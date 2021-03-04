@@ -1,0 +1,33 @@
+﻿@model IEnumerable<EmployeeList.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1>Employee List</h1>
+
+<div class="row">
+    <div class="col-md-4"><h4>Name</h4></div>
+    <div class="col-md-4"><h4>Salary</h4></div>
+    <div class="col-md-4"><h4>Permanent</h4></div>
+</div>
+
+@foreach (Employee emp in Model)
+{
+    if (emp.IsPermanent == true)
+    {
+        <div class="row">
+            <div class="col-md-4"><b>@emp.Name</b></div>
+            <div class="col-md-4"><b>@emp.Salary</b></div>
+            <div class="col-md-4"><b>@emp.IsPermanent</b></div>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-md-4">@emp.Name</div>
+            <div class="col-md-4">@emp.Salary</div>
+            <div class="col-md-4">@emp.IsPermanent</div>
+        </div>
+    }
+}

@@ -1,0 +1,13 @@
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.exe
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.deps.json
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.runtimeconfig.json
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.runtimeconfig.dev.json
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.dll
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\bin\Debug\netcoreapp3.1\MVCBasicConsole.pdb
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.csprojAssemblyReference.cache
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.AssemblyInfoInputs.cache
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.AssemblyInfo.cs
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.dll
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.pdb
+C:\Users\889834\source\repos\MVCBasic\MVCBasicConsole\obj\Debug\netcoreapp3.1\MVCBasicConsole.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+﻿@model List<string>
+@foreach (var org in Model)
+{
+    if (org == "Amazon")
+    {
+        <div><span><b>@org</b></span></div>
+    }
+    else
+    {
+        <div><span>@org</span></div>
+    }
+}

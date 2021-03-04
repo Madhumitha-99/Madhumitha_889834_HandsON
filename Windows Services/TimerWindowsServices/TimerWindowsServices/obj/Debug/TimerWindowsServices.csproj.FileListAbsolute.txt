@@ -1,0 +1,8 @@
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\bin\Debug\TimerWindowsServices.exe.config
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\bin\Debug\TimerWindowsServices.exe
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\bin\Debug\TimerWindowsServices.pdb
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\obj\Debug\TimerWindowsServices.csproj.CoreCompileInputs.cache
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\obj\Debug\TimerWindowsServices.exe
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\obj\Debug\TimerWindowsServices.pdb
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\obj\Debug\TimerWindowsServices.ProjectInstaller.resources
+C:\Users\Maddy\source\repos\TimerWindowsServices\TimerWindowsServices\obj\Debug\TimerWindowsServices.csproj.GenerateResource.cache
