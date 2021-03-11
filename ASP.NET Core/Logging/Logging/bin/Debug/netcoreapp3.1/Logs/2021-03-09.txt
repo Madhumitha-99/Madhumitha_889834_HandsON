@@ -1,0 +1,15 @@
+2021-03-09 16:26:16,446 [11] ERROR App  
+ Exception : Custom Exceptions 
+ 
+2021-03-09 16:27:59,163 [4] ERROR App  
+ Exception : Error Occured 
+ 
+2021-03-09 16:28:08,286 [4] ERROR App  
+ Exception : Error Occured 
+ 
+2021-03-09 16:28:13,565 [4] ERROR App  
+ Exception : Error Occured 
+ 
+2021-03-09 16:28:14,480 [7] ERROR App  
+ Exception : Error Occured 
+ 
