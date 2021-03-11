@@ -1,0 +1,13 @@
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.exe
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.deps.json
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.runtimeconfig.json
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.runtimeconfig.dev.json
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.dll
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\netcoreapp3.1\CodeAnalysis.pdb
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.csprojAssemblyReference.cache
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.AssemblyInfoInputs.cache
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.AssemblyInfo.cs
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.dll
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.pdb
+C:\Users\889834\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\netcoreapp3.1\CodeAnalysis.genruntimeconfig.cache
