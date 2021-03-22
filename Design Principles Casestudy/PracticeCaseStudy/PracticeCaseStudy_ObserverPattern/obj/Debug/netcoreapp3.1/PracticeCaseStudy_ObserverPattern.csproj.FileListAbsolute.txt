@@ -1,0 +1,13 @@
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.exe
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.deps.json
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.runtimeconfig.json
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.runtimeconfig.dev.json
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.dll
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\bin\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.pdb
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.csprojAssemblyReference.cache
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.AssemblyInfo.cs
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.dll
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.pdb
+C:\Users\889834\source\Design Principles Casestudy\PracticeCaseStudy\PracticeCaseStudy_ObserverPattern\obj\Debug\netcoreapp3.1\PracticeCaseStudy_ObserverPattern.genruntimeconfig.cache

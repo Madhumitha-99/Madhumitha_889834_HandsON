@@ -1,0 +1,13 @@
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.exe
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.deps.json
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.runtimeconfig.json
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.runtimeconfig.dev.json
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.dll
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\bin\Debug\netcoreapp3.1\AdapterPattern_DP-T03.pdb
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.csprojAssemblyReference.cache
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.AssemblyInfoInputs.cache
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.AssemblyInfo.cs
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.dll
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.pdb
+C:\Users\889834\source\Design Principles Handson\AdapterPattern_DP-T03\AdapterPattern_DP-T03\obj\Debug\netcoreapp3.1\AdapterPattern_DP-T03.genruntimeconfig.cache

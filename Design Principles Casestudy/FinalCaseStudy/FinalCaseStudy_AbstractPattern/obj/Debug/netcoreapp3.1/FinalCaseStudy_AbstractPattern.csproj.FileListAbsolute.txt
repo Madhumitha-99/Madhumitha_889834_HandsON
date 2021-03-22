@@ -1,0 +1,13 @@
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.exe
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.deps.json
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.runtimeconfig.json
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.runtimeconfig.dev.json
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.dll
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.pdb
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.csprojAssemblyReference.cache
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.AssemblyInfoInputs.cache
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.AssemblyInfo.cs
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.dll
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.pdb
+C:\Users\889834\source\Design Principles Casestudy\FinalCaseStudy\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.genruntimeconfig.cache
