@@ -1,7 +1,0 @@
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
-C:\Users\889834\source\Design Principles Handson\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
