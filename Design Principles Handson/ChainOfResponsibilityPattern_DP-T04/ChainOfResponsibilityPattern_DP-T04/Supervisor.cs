@@ -15,7 +15,7 @@ namespace ChainOfResponsibilityPattern_DP_T04
             }
             else
             {
-                Console.WriteLine("Supervisor : Redirected to HR for Approval");
+                Console.WriteLine("Supervisor : Redirected to Project Manager for Approval");
                 nextHandler = new ProjectManager();
                 nextHandler.HandleRequest(leaveRequest);
             }
