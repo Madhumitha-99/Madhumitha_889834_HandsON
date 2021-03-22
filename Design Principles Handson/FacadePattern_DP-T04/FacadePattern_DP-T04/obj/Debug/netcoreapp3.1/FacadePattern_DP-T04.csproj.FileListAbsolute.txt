@@ -1,0 +1,13 @@
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.exe
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.deps.json
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.runtimeconfig.json
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.runtimeconfig.dev.json
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.dll
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\bin\Debug\netcoreapp3.1\FacadePattern_DP-T04.pdb
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.csprojAssemblyReference.cache
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.AssemblyInfoInputs.cache
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.AssemblyInfo.cs
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.dll
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.pdb
+C:\Users\889834\source\Design Principles Handson\FacadePattern_DP-T04\FacadePattern_DP-T04\obj\Debug\netcoreapp3.1\FacadePattern_DP-T04.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.exe
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.deps.json
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.runtimeconfig.json
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.runtimeconfig.dev.json
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.dll
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\bin\Debug\netcoreapp3.1\MediatorPattern_DP-T05.pdb
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.csprojAssemblyReference.cache
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.AssemblyInfoInputs.cache
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.AssemblyInfo.cs
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.csproj.CoreCompileInputs.cache
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.dll
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.pdb
+C:\Users\889834\source\Design Principles Handson\MediatorPattern_DP-T05\MediatorPattern_DP-T05\obj\Debug\netcoreapp3.1\MediatorPattern_DP-T05.genruntimeconfig.cache
