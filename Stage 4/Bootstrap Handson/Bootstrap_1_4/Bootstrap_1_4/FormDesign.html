@@ -1,0 +1,140 @@
+﻿﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <title></title>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <h3><a class="text-white" href="#">Payroll</a></h3>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuitems" aria-controls="menuitems" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="menuitems">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link text-light" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="Product_cards.html">Products</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <br />
+    <div class="container">
+        <h5 class="font-weight-bold">New Employee</h5>
+        <form>
+            <div class="form-row">
+                <div class="form-group col-lg-4">
+                    <label for="fname">First Name</label>
+                    <input type="text" class="form-control" id="fname" required />
+                </div>
+                <div class="form-group col-lg-4">
+                    <label for="mname">Middle Name</label>
+                    <input type="text" class="form-control" id="mname" required />
+
+                </div>
+                <div class="form-group col-lg-4">
+                    <label for="lname">Last Name</label>
+                    <input type="text" class="form-control" id="lname" required />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-lg-6">
+                    <label for="Address1">Address Line 1</label>
+                    <input type="text" class="form-control" id="Address1" required />
+                </div>
+                <div class="form-group col-lg-6">
+                    <label for="Address2">Address Line 2</label>
+                    <input type="text" class="form-control" id="Address2" required />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" required />
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="pass">Password</label>
+                    <input type="password" class="form-control" id="pass" required />
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="cpass">Confirm Password</label>
+                    <input type="password" class="form-control" id="cpass" required />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-lg-3">
+                    <label for="dept">Department</label>
+                    <select id="dept" class="form-control" required>
+                        <option>
+                            Development
+                        </option>
+                        <option>
+                            Testing
+                        </option>
+                        <option>
+                            Maintenance
+                        </option>
+                        <option selected>
+                            Choose...
+                        </option>
+                    </select>
+                </div>
+                <div class=" form-group col-lg-3">
+                    <label for="dateOfBirth">Date of Birth</label>
+                    <input type="text" class="form-control" id="dateOfBirth" required />
+                    <script>
+                    $('#dateOfBirth').datepicker({
+
+                        uiLibrary: 'bootstrap4',
+
+                        format: 'dd/mm/yyyy'
+
+                    });
+                    </script>
+                </div>
+                <div class=" form-group col-lg-3">
+                    <legend class="col-form-label">Gender</legend>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="gender" id="Radio1" />
+                        <label class="form-check-label" for="Radio1">Male</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="gender" id="Radio2" />
+                        <label class="form-check-label" for="Radio2">Female</label>
+                    </div>
+                </div>
+                <div class="form-group col-lg-3">
+                    <legend class="col-form-label">Permanent</legend>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="checkbox" name="permanent" id="checkbox" />
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary" id="button1">Save</button>
+            <script>
+            $("#button1").click(function () {
+                $("#button1").removeClass("btn btn-primary");
+                $(this).addClass("btn btn-success");
+            });
+            </script>
+        </form>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>
